@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+*.db
+data/*.csv
+!data/.gitkeep
+.streamlit/secrets.toml
+_pages_archived_old/
