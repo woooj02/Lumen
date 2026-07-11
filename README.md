@@ -48,7 +48,7 @@ Then, in the top tabs:
 ## 🚀 Quickstart
 
 ```bash
-git clone <your-repo-url> lumen && cd lumen
+git clone https://github.com/woooj02/Lumen.git lumen && cd lumen
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 ./run.sh                      # or: streamlit run app.py
